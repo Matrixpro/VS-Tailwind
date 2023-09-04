@@ -14,10 +14,6 @@ export default defineConfig({
 				tailwindcss(),
 				autoprefixer(),
 			],
-            // input: [
-            //     './resources/css/app.css',
-            //     refresh: true,
-            // ],
 		}),
 	],
 })
